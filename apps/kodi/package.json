@@ -10,7 +10,7 @@
   "author": "WarlaxZ",
   "license": "ISC",
   "dependencies": {
-    "alexa-app": "^2.3.4",
+    "alexa-app": "3.2.0",
     "imdb-api": "^2.0.0",
     "kodi-ws": "^2.4.2",
     "lodash": "^4.16.0",
